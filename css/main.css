@@ -1,0 +1,274 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+body{
+	font-style:normal;
+	font-weight:300;
+	line-height: 3.2;
+	font-size: 14px;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 0em;
+	color: #959595 !important;
+	background-color: #808080  !important;
+}
+
+a{
+	text-decoration: none !important;
+}
+
+h2{
+	font-style:normal;
+	font-weight:600 !important;
+	line-height: 2.2;
+	font-size: 30px;
+	letter-spacing: 2px !important;
+	font-family: ’Archivo Black’, sans-serif;
+	color: #1e1d24 !important;
+	letter-spacing: 0em;
+	text-align:center;
+	padding:25px 0 0 0;
+}
+
+header{
+	height: 800px;
+	background: url("../images/banner.jpg");
+	background-position: 0px 130px; 
+}
+
+/* LOGO */
+.logo_item{
+	background-color:#ffffff;
+	-ms-transform: skew(0deg,10deg); /* IE 9 */
+    -webkit-transform: skew(0deg,10deg); /* Safari */
+	transform: skew(0deg,10deg);
+	height: 180px;
+	margin-top: -50px;
+}
+
+.logo{
+	text-align: right;
+	background-color: #ffffff;
+	padding: 25px 0 35px 0;
+}
+
+.logo a{
+	margin-right: 55px;
+}
+
+.logo img{
+	display: inline;
+	width: 80px;
+	margin-top: -25px;
+}
+
+.logo p{
+	display: inline;
+	padding: 15px;
+	font-family: 'Andika', sans-serif;
+	text-transform: uppercase;
+	font-size: 48px;
+	color: #000000;
+	font-weight: 900;
+}
+
+/* Menü */
+.navbar{
+	background: #000 !important;
+	border-radius: 0 !important;
+	-ms-transform: skew(0deg,10deg); /* IE 9 */
+    -webkit-transform: skew(0deg,10deg); /* Safari */
+	transform: skew(0deg,10deg);
+	margin-top:-34px;
+}
+
+.navigation{
+	background: #000 !important;
+	padding-top: 15px;
+	height: 50px;
+	text-align: right;
+}
+
+nav ul{
+	list-style-type: none;
+	padding-right: 80px;
+}
+
+nav li{
+	display: inline;
+	padding: 20px;
+	
+}
+
+nav a{
+	font-weight: 400;
+	color: #ffffff;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	-webkit-transition: color 0.3s;
+}
+
+nav a:hover{
+	color: #fecc00;
+}
+
+nav a:link{
+	color:#ffffff;
+}
+
+nav a:active{
+	color:#ffffff;
+}
+
+
+/* Banner */
+.slogan{
+	height:180px;
+	background-color:rgba(254,204,0,0.5);	
+	margin-top:350px;
+	box-shadow:4px 5px 8px rgba(0,0,0,0.4);;
+}
+
+h1{
+	color: #000000 !important;
+	padding:10px 10px 10px 10px;
+}
+
+/* Bemutatkozás */
+section{
+	min-height:260px;
+	background-color:#ffffff;
+}
+
+.title{
+	background-color:#e0cd5a;
+	display:block;
+	width:100px;
+	height:2px;	
+	margin:0 auto;
+}
+
+.introduction_content p{
+	padding:30px 130px 10px 130px;
+	text-align:center;
+	letter-spacing:1px;
+	line-height:4 !importan;
+}
+
+/* Szolgáltatásaink */
+
+.icon{
+	height:200px;
+	margin-top:40px;
+	text-align:center;
+	padding-top:18px;
+}
+
+.icon_img{
+	height:100px;
+	width:100px;
+	border-radius:50%;
+	margin:0 auto;
+	background-color:rgba(254,204,0,0.8);     /*#fecc00;*/
+	transition:background-color 0.4s;
+	cursor:pointer;
+}
+
+.icon_img i{
+	color:#000000;
+	font-size:40px;
+	padding-top:30px;
+	transition:color 0.4s;
+}
+
+.icon h3{
+	padding-top:10px;
+	font-weight:600;
+	transition: color 0.5s;
+}
+
+.active{
+	background-color:#000000!important;
+}
+
+.active i{
+	color:#ffffff !important;
+}
+
+#hatter{
+	height:665px !important;
+	background:url("../images/services.jpg");
+	background-repeat:no-repeat;
+}
+
+.services{
+	width:550px;
+	height:360px;
+	background-color:#ffffff;
+	border-top:3px solid #e0cd5a;
+	border-right:3px solid #e0cd5a;
+	box-shadow:6px 8px 8px #000000;
+	float:right;
+	margin-top:100px;
+	margin-right:60px;
+	padding:30px 45px 0 45px;
+	
+}
+
+.services h3{
+	width:100%;
+	text-align:right;
+	padding-right:50px;
+	color:#000000 !important;
+}
+
+.services p{
+	padding-top:25px;
+}
+
+.services .title{
+	float:right !important;
+	margin-right:50px;
+}
+
+/* Kapcsolatok */
+.contact{
+	background-color:#2a2f33;
+}
+
+.contact h2{
+	color:#ffffff !important;
+}
+
+.container contact .row{
+	margin-top:80px !important;
+} 
+
+.contact_content{
+	display:block;
+	margin-left:150px;
+	margin-top:30px;
+}
+
+.contact_content i{
+	float:left;
+	color:#ffffff !important;
+	font-size:25px;
+	margin-right:25px;
+}
+
+.contact_content p{
+	font-size:16px;
+	color:#ffffff;
+	letter-spacing:2.5px;
+}
+
+
+
+
+
