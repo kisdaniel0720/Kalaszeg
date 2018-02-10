@@ -38,7 +38,7 @@ h2{
 header{
 	height: 800px;
 	background: url("../images/banner.jpg");
-	background-position: 0px 130px; 
+	background-position: 0px 130px;
 }
 
 /* LOGO */
@@ -82,7 +82,7 @@ header{
 	background: #000 !important;
 	border-radius: 0 !important;
 	-ms-transform: skew(0deg,10deg); /* IE 9 */
-    -webkit-transform: skew(0deg,10deg); /* Safari */
+  -webkit-transform: skew(0deg,10deg); /* Safari */
 	transform: skew(0deg,10deg);
 	margin-top:-34px;
 }
@@ -102,7 +102,7 @@ nav ul{
 nav li{
 	display: inline;
 	padding: 20px;
-	
+
 }
 
 nav a{
@@ -129,7 +129,7 @@ nav a:active{
 /* Banner */
 .slogan{
 	height:180px;
-	background-color:rgba(254,204,0,0.5);	
+	background-color:rgba(254,204,0,0.5);
 	margin-top:350px;
 	box-shadow:4px 5px 8px rgba(0,0,0,0.4);;
 }
@@ -149,7 +149,7 @@ section{
 	background-color:#e0cd5a;
 	display:block;
 	width:100px;
-	height:2px;	
+	height:2px;
 	margin:0 auto;
 }
 
@@ -217,7 +217,7 @@ section{
 	margin-top:100px;
 	margin-right:60px;
 	padding:30px 45px 0 45px;
-	
+
 }
 
 .services h3{
@@ -247,7 +247,7 @@ section{
 
 .container contact .row{
 	margin-top:80px !important;
-} 
+}
 
 .contact_content{
 	display:block;
@@ -267,8 +267,3 @@ section{
 	color:#ffffff;
 	letter-spacing:2.5px;
 }
-
-
-
-
-
