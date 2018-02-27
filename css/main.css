@@ -128,15 +128,17 @@ nav a:active{
 
 /* Banner */
 .slogan{
-	height:180px;
+	height:150px;
 	background-color:rgba(254,204,0,0.5);
 	margin-top:350px;
-	box-shadow:4px 5px 8px rgba(0,0,0,0.4);;
+	box-shadow:4px 5px 8px rgba(0,0,0,0.4);
+	text-align:right;
 }
 
 h1{
 	color: #000000 !important;
-	padding:10px 10px 10px 10px;
+	padding:15px 10px 10px 10px;
+	font-size:35px !important;
 }
 
 /* Bemutatkozás */
