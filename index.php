@@ -12,8 +12,6 @@
 	<meta name="description" content="#" />
 	<meta name="dcterms.rightsHolder" content="#" />
 	<meta name="author" content="KLD" />
-	<meta name="robots" content="noindex, nofollow" />
-	<meta name="googlebot" content="noindex, nofollow" />
 	<meta name="turbolinks-cache-control" content="no-cache" />
 	<meta name="format-detection" content="telephone=no">
 
@@ -67,7 +65,7 @@
 		<div class="row">
 			<div class="col-sm-7"></div>
 			<div class="col-sm-4 slogan">
-				<h1>Lorem ipsum...</h1>
+				<h1>Céltudatosság, szakmai elhivatottság</h1>
 			</div>
 			<div class="col-sm-1"></div>
 		</div>
@@ -84,7 +82,7 @@
 		
 		<div class="row introduction_content">
 			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum sem et lorem tempus, ac molestie lorem aliquet. Quisque vestibulum dui nisi, quis tempus nibh ultrices vel. Aenean id pretium mauris. Integer quis ultrices enim. Suspendisse vitae lacinia metus, in sodales sapien. Donec non gravida magna.
+				Fiatal dinamikusan fejlődő, az építőípar minden területén tevékenykedő vállalkozás vagyunk. Szakképzett és gyakorlott munkaerői háttérrel célunk a megrendelői igények maximális kielégítése.
 			</p>
 		</div>
 		
